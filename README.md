@@ -97,17 +97,17 @@ http://localhost:3000
 
 ## 📸 UI Preview
 
-# Home Page
+## Home Page
 <img width="1913" height="908" alt="image" src="https://github.com/user-attachments/assets/fd5eed34-e0e0-48f3-aade-5f92553749e8" />
 
 ---
 
-# Overview
+## Overview
 <img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/7fb1c1f1-1334-4a6c-8e94-5cbf3d743d67" />
 
 ---
 
-# Dashboard
+## Dashboard
 <img width="1913" height="907" alt="image" src="https://github.com/user-attachments/assets/ec5a3668-f4ed-4a3c-93f1-2370227634e3" />
 
 ---
